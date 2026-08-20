@@ -147,9 +147,7 @@ I am continuously developing my Scrum Master and technical capabilities through:
 
 ## 📄 Resume
 
-## 📄 Resume
-
-📥 [**View / Download My Resume**](https://github.com/mounikapulluru30/resume/raw/refs/heads/main/MOUNIKA_PULLURU_SCRUM_RESUME.pdf)
+📥 [**View / Download My Resume**](https://github.com/mounikapulluru30/resume/blob/main/MOUNIKA_PULLURU_SCRUM_RESUME.pdf)
 
 ---
 
